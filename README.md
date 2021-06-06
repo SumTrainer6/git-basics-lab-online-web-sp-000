@@ -199,3 +199,4 @@ cd my-repository
 git init
 add README.md
 cd my-repository
+git init
